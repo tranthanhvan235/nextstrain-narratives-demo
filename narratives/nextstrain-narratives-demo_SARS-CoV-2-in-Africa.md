@@ -25,6 +25,8 @@ Content.
 ## Introduction to phylogenetics
 
 Some more content.
+
+<img src="https://raw.githubusercontent.com/tranthanhvan235/nextstrain-narratives-demo/refs/heads/main/figures/toy_alignment_tree.png" alt="Representation of an alignment and the corresponding phylogeny" width="100%" />
 ```
   
 # [Circulation patterns in Africa](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=tree,map,frequencies&f_region=Africa&p=grid)
